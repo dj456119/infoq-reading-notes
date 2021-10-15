@@ -8,4 +8,4 @@
 ## 目录
 
 * 2021-10-15
-  * [Netflix实用API设计(上)](./2021-10-15/Netflix实用API设计(上).md)
+  * [Netflix实用API设计(上)阅读笔记](./2021-10-15/Netflix实用API设计(上).md)
