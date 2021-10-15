@@ -10,5 +10,5 @@
 * 2021-10-15
   * [Netflix实用API设计(上)【阅读笔记】](./2021-10-15/Netflix实用API设计(上).md)
   * [SRE实战(01)初识+探索SRE如何推进好大夫在线技术债务改造【阅读随笔】](./2021-10-15/SRE实战(01)初识+探索SRE如何推进好大夫在线技术债务改造.md)
-  * <font color=gray>[隐蔽的角落-这次我们只聊Cilium IPAM]</font>
+  * <font color=gray>隐蔽的角落-这次我们只聊Cilium IPAM</font>
   
