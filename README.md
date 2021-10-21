@@ -17,3 +17,5 @@
   * [Apache ShardingSphere在京东白条场景的落地之旅【阅读随笔】](./2021-10-16/Apache%20ShardingSphere在京东白条场景的落地之旅.md)
 * 2021-10-19
   * [亚马逊可持续软件工程实践【阅读随笔】](./2021-10-19/亚马逊可持续软件工程实践.md)
+* 2021-10-20
+  * [从NoSQL到Lakehouse，Apache Doris的13年技术演进之路【阅读随笔】](./2021-10-20/从NoSQL到Lakehouse，Apache%20Doris的13年技术演进之路.md)

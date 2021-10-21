@@ -1,11 +1,3 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: cm.d
- * @Date: 2021-10-16 13:29:26
- * @LastEditors: cm.d
- * @LastEditTime: 2021-10-16 13:38:20
--->
 
 # Apache ShardingSphere在京东白条场景的落地之旅【阅读随笔】
 

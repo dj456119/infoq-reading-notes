@@ -1,11 +1,3 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: cm.d
- * @Date: 2021-10-15 13:35:06
- * @LastEditors: cm.d
- * @LastEditTime: 2021-10-15 14:09:43
--->
 
 # Netflix实用API设计(上) 阅读笔记
 

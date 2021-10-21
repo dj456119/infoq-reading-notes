@@ -1,11 +1,3 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: cm.d
- * @Date: 2021-10-16 11:14:30
- * @LastEditors: cm.d
- * @LastEditTime: 2021-10-16 13:53:13
--->
 
 # 一文了解字节跳动微服务中间件CloudWeGo【阅读随笔】
 

@@ -1,11 +1,3 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: cm.d
- * @Date: 2021-10-15 14:36:31
- * @LastEditors: cm.d
- * @LastEditTime: 2021-10-15 17:53:10
--->
 
 # SRE实战(01)初识+探索SRE如何推进好大夫在线技术债务改造【阅读随笔】
 
