@@ -19,3 +19,4 @@
   * [亚马逊可持续软件工程实践【阅读随笔】](./2021-10-19/亚马逊可持续软件工程实践.md)
 * 2021-10-20
   * [从NoSQL到Lakehouse，Apache Doris的13年技术演进之路【阅读随笔】](./2021-10-20/从NoSQL到Lakehouse，Apache%20Doris的13年技术演进之路.md)
+  * [如何借助 Quarkus 和 MicroProfile 实现微服务【阅读随笔】](./2021-10-20/如何借助Quarkus和MicroProfile实现微服务.md)
