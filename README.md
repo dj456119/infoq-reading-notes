@@ -1,3 +1,11 @@
+<!--
+ * @Descripttion: 
+ * @version: 
+ * @Author: cm.d
+ * @Date: 2021-10-23 10:08:05
+ * @LastEditors: cm.d
+ * @LastEditTime: 2021-10-23 16:53:08
+-->
 
 # infoq-reading-notes
 
@@ -20,3 +28,5 @@
 * 2021-10-20
   * [从NoSQL到Lakehouse，Apache Doris的13年技术演进之路【阅读随笔】](./2021-10-20/从NoSQL到Lakehouse，Apache%20Doris的13年技术演进之路.md)
   * [如何借助 Quarkus 和 MicroProfile 实现微服务【阅读随笔】](./2021-10-20/如何借助Quarkus和MicroProfile实现微服务.md)
+* 2021-10-22
+  * [作业帮Kubernetes原生调度器优化实践【阅读随笔】](./2021-10-22/作业帮Kubernetes原生调度器优化实践.md)
