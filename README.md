@@ -4,7 +4,7 @@
  * @Author: cm.d
  * @Date: 2021-10-23 10:08:05
  * @LastEditors: cm.d
- * @LastEditTime: 2021-10-23 16:53:08
+ * @LastEditTime: 2021-10-25 00:53:43
 -->
 
 # infoq-reading-notes
@@ -30,3 +30,5 @@
   * [如何借助 Quarkus 和 MicroProfile 实现微服务【阅读随笔】](./2021-10-20/如何借助Quarkus和MicroProfile实现微服务.md)
 * 2021-10-22
   * [作业帮Kubernetes原生调度器优化实践【阅读随笔】](./2021-10-22/作业帮Kubernetes原生调度器优化实践.md)
+* 2021-10-23
+  * [分布式事务最经典的七种解决方案【阅读笔记】](./2021-10-23/分布式事务最经典的七种解决方案.md)
