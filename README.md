@@ -4,9 +4,8 @@
  * @Author: cm.d
  * @Date: 2021-10-25 10:08:15
  * @LastEditors: cm.d
- * @LastEditTime: 2021-10-28 00:43:58
+ * @LastEditTime: 2021-10-31 14:17:44
 -->
-
 
 # infoq-reading-notes
 
@@ -39,3 +38,5 @@
   * [作业帮Kubernetes Serverless在大规模任务场景下的落地和优化【阅读随笔】](./2021-10-26/作业帮Kubernetes%20Serverless在大规模任务场景下的落地和优化.md)
 * 2021-10-27
   * [PayPal 大规模采用 GraphQL 的探索和实践【阅读随笔】](./2021-10-27/PayPal%20大规模采用%20GraphQL%20的探索和实践.md)
+* 2021-10-30
+  * [网易云音乐音视频算法的 Serverless 探索之路【阅读随笔】](./2021-10-30/网易云音乐音视频算法的%20Serverless%20探索之路.md)
